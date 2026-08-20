@@ -499,7 +499,8 @@ plt.show()
 
 * Thresholded image
   
-* <img width="1008" height="657" alt="image" src="https://github.com/user-attachments/assets/fb49ce4c-2f9a-480d-88d5-23793910eed3" />
+<img width="795" height="558" alt="download" src="https://github.com/user-attachments/assets/c50301d9-b986-4112-8df2-1aa0ca99ebf0" />
+
 
 * ROI masked image
 
